@@ -16,6 +16,11 @@
     border-width:3px !important;
 }
 
+#nav-list a:hover {
+    background:whitesmoke;
+  }
+  
+
 #chicken {
     background-color: #D59898;
 }
